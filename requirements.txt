@@ -1,5 +1,8 @@
+uvicorn
+python-dotenv
 pydantic~=1.9.1
 fastapi~=0.78.0
 passlib
 sqlalchemy
 bcrypt
+psycopg2
